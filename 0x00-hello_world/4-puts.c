@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
+ * main -Entry point
+ *
  * Description: prints output to the screen using puts()
  *
- * return: 0
+ * Return: Always 0 (sucess)
  */
 int main(void)
 {
