@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main -Entry point
- *
  * Description: this program outputs the size of various C data types 
  * Return: Always 0 (sucess)
  */
