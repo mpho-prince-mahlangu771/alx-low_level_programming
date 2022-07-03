@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  *
- * Description: randomly assigns a number to variable n and decides if it pos, neg, or zero
+ * Description: outputs a randomly assigned number
  *
  * Return: Always 0 (sucess)
  */
