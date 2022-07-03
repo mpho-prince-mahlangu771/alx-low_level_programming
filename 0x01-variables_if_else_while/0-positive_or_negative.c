@@ -2,8 +2,7 @@
 #include <stdio.h>
 #include <time.h>
 /**
- * main - Entry point
- * 
+ * main - Entry point 
  * Description: prints if random # stored in n is +,-, or 0
  *
  * Return: Always 0 (sucess)
