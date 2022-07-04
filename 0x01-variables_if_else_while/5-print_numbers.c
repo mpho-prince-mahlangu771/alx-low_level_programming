@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main -Entry point
  *
- * Description: prints all single digits # starting at 0
+ * Description: prints all single digit # starting at 0
  *
- * Return: Always 0 (sucess)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
@@ -14,4 +14,4 @@ int main(void)
 		printf("%d", i);
 	printf("\n");
 	return (0);
-}			
+}
