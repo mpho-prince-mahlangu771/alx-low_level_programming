@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * int_islower - A custom made prototype
+ * int_islower - Called in main.c
  *
- * Description: checks whether int c is a lowercase character using ascii,a=97
+ * Description: checks whether int c is a lowercase character using ascii
  *
  * Return: 1 if c is lowercase, 0 if not
  */
