@@ -1,4 +1,3 @@
-#include "main.h"
 /**
  * int_islower - A custom made prototype
  *
