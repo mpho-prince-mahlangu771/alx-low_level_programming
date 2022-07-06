@@ -1,9 +1,9 @@
 #include "main.h"
 /**
  * int _isalpha - My custom made alphabet checker similar to man isalpha()
+ * @c: Is the input program checks
  *
- * Description: Checks if a given input is lower/uppercase alphabet or not
- *
+ * Description: Checks if a given input is an alphabet or not
  * Return: 1 if is alphabet and 0 if not
  */
 int _isalpha(int c)
