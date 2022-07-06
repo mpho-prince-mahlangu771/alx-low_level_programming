@@ -5,7 +5,6 @@
  *
  * Description: This function accepts input and perform
  * checks to determine if the input is an alphabet or not
- *
  * Return: 1 if is alphabet and 0 if not
  */
 int _isalpha(int c)
