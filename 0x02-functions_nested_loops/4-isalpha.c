@@ -1,4 +1,3 @@
-#include "main.h"
 /**
  * int _isalpha - Checks if c is alphabet
  * @c: Input for function
