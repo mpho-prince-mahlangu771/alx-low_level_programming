@@ -2,8 +2,7 @@
 /**
  * int_islower - A custom made prototype
  *
- * Description: checks whether int c is a lowercase character using ascii-
- * codes where lowercase ASCII characters range from 97-122(a-z)
+ * Description: checks whether int c is a lowercase character using ascii,a=97
  *
  * Return: 1 if c is lowercase, 0 if not
  */
