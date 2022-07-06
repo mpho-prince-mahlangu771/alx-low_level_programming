@@ -1,10 +1,7 @@
 /**
- * int _isalpha - Checks if c is alphabet
+ * _isalpha - Checks if c is alphabet
  * @c: c is input
- *
- * Description: This function checks if input is a letter,lowercase or uppercas
- *
- * Return: Returns  1 if is alphabet and 0 if not
+ * Return: Returns  1 if c is alphabet and 0 if not
  */
 int _isalpha(int c)
 {
