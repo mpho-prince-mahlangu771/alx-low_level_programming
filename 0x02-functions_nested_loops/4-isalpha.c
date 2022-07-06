@@ -1,5 +1,6 @@
 /**
  * int _isalpha - Checks if c is alphabet
+ *
  * @c: Input for function
  *
  * Description: This function accepts input and perform
