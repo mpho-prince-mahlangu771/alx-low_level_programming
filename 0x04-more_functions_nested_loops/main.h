@@ -1,4 +1,3 @@
-#include <unistd.h>
 /**
  *
  * Description: contains all the function prototypes for the - 
@@ -7,3 +6,4 @@
 int _putchar(char c);
 int _isupper(int c);
 int _isdigit(int c);
+int mult(int a, int b);
