@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * _abs - Computes the absolute value of an integer
- * @n: A signed integer(=/-) 
- * Return: Absolute value
+ * @n: An signed integer input
+ * Return: Absolute value of n
  */
 int _abs(int n)
 {
