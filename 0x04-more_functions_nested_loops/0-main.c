@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 /**
  * main -Checks the code
  *
@@ -8,10 +7,22 @@
 int main(void)
 {
 	char c;
-	c = 'A';
-	printf("%c: %d\n", c, _isupper(c));
-	c = 'a'; 
-	printf("%c: %d\n", c, _isupper(c));
+
+       	_putchar('A');
+	_putchar(':');
+	c = _isupper('A');
+	_putchar(c + '0');
+	_putchar('\n');
+	_putchar('a');
+	_putchar(':');
+	c = _isupper('a');
+	_putchar(c + '0');
+	_putchar('\n');
+	_putchar(']');
+	_putchar(':');
+	c = _isupper(']');
+	_putchar(c + '0');
+	_putchar('\n');
 	return (0);
 }
 
