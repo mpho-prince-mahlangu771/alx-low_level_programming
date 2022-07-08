@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * print_square - Prints a square followed by newline
- * @size: Size of a square
- * Description: Uses the character # to print a square
- * Return: A square if n is greater than zero, else a newline
+ * print_square - Prints a square
+ * @size: The size of the square
+ * Description: Uses a # character to print square
+ * Return: A square if size is greater 0 else a newline(\n)
  */
 void print_square(int size)
 {
