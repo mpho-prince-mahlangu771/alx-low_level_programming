@@ -2,7 +2,6 @@
 /**
  * print_square - Prints a square
  * @size: The size of the square
- * Description: Uses a # character to print square
  * Return: A square if size is greater 0 else a newline(\n)
  */
 void print_square(int size)
