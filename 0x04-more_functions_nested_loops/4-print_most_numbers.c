@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_most_numbers - Prints numbers from 0-9 
- * Description: Prints all number from 0 to 9 exept for numbers 2 and 4
- * Return: Numbers
+ * print_most_numbers - Prints numbers from 0-9 excluding 2 and 4
+ * Description: Uses ASCII characters to represent numbers
+ * Return: void
  */
 void print_most_numbers(void)
 {
