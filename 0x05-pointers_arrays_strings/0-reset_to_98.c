@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 /**
   * reset_to_98 -  Updates pointer value it points to to 98
   * @*n: A pointe variable
