@@ -12,4 +12,4 @@ void print_rev(char *s);
 void puts2(char *str);
 void puts_half(char *str);
 void puts_half(char *str);
-void *_strcpy(char *dest, char *src);
+char *_strcpy(char *dest, char *src);
