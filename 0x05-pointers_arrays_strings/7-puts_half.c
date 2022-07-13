@@ -21,12 +21,11 @@ void puts_half(char *str)
 	{
 		for (i = stringmiddle; str[i] != '\0'; i++)
 			_putchar(str[i]);
-		_putchar('\n');
 	}
 	else
 	{
-		n = (stringlen - 1) /2;
+		n = (stringlen - 1) / 2;
 		_putchar(str[n]);
-		_putchar('\n');
 	}
+	_putchar('\n');
 }
