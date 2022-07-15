@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * leet - Encodes a string into 1337
+ * cap_string - Encodes a string into 1337
  * @str: String
  * Return: String capitalized
  */
