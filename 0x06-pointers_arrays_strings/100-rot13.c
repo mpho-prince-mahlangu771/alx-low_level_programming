@@ -16,10 +16,10 @@ char *rot13(char *str)
 		'y', 'M', 'Z', 'm', 'z'};
 
 	i = 0;
-	r =13;
+	r = 13;
 	while(str[i] != '\0')
 	{
-		for (x =0; x <= 51; x++)
+		for (x = 0; x <= 51; x++)
 		{
 			if (str[i] == swap[x])
 			{
