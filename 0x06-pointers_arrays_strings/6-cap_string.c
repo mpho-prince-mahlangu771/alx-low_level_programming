@@ -27,6 +27,5 @@ char *cap_string(char *str)
 			}
 		}
 	}
-	_putchar('\n');
 	return (str);
 }
