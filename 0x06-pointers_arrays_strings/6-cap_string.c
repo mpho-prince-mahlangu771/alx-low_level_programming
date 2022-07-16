@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * cap_string - Encodes a string into 1337
+ * cap_string - Capitalizes all words of a string
  * @str: String
  * Return: String capitalized
  */
@@ -9,7 +9,7 @@ char *cap_string(char *str)
 	int i;
 	int x;
 	int cap;
-	int separators[] = {',', ';', '.', '?', '"', '(',')', '{','}', ' ', 
+	int separators[] = {',', ';', '.', '?', '"', '(',')', '{','}', ' ',
 		'\n', '\t'};
 
 
